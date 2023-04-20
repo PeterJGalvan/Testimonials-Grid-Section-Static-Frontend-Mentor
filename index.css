@@ -6,13 +6,23 @@
 
 body {
   font-family: "Barlow Semi Condensed", sans-serif;
-  background-color: hsl(0, 0%, 81%);
+  background-color: hsl(210, 46%, 95%);
 }
 
 .test-card {
-  padding: 25px 25px;
+  z-index: -2;
+  position: relative;
+  padding: 25px 30px;
   border-radius: 10px;
   margin-top: 20px;
+}
+
+.quotation-marks {
+  z-index: -1;
+  position: absolute;
+  right: 5%;
+  top: -25px;
+  padding-top: inherit;
 }
 
 .test-header-grid {
@@ -27,7 +37,7 @@ body {
 
 .test-header-grid-img {
   grid-area: header-image;
-  height: 75%;
+  width: 75%;
   border-radius: 50%;
   border: 3px solid rgba(211, 211, 211, 0.445);
   align-self: center;
@@ -50,13 +60,13 @@ body {
 .test-prompt {
   font-size: 1.5rem;
   margin-bottom: 0;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .test-sub-prompt {
   color: darkgray;
   margin-bottom: 0;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .bg-purple {
@@ -90,8 +100,9 @@ body {
 
   .tests-grid {
     width: 80%;
-    max-width: 2000px;
+    max-width: 1440px;
     margin-inline: auto;
+    margin-block: 10px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-areas:
