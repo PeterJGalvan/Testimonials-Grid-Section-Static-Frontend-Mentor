@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here]()
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-avOGwSPA_2)
 - Live Site URL: [live site URL here](https://peterjgalvan.github.io/Testimonials-Grid-Section-Static-Frontend-Mentor/)
 
 ## My process
