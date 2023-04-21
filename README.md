@@ -23,10 +23,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop ScreenShot
-![Desktop ScreenShot](./images/desktop-screenshot.png)
+![Desktop ScreenShot](./images/desktop.png)
 
 Mobile ScreenShot
-![Mobile ScreenShot](./images/moblie-screenshot.png)
+![Mobile ScreenShot](./images/moblie.png)
 
 ### Links
 
