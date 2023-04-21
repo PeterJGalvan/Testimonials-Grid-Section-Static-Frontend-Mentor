@@ -6,7 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#Screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,13 +20,11 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
-Desktop ScreenShot
-![Desktop ScreenShot](./images/desktop.png)
+![Desktop ScreenShot](./images/desktop-screenshot.png)
 
-Mobile ScreenShot
-![Mobile ScreenShot](./images/moblie.png)
+![Mobile ScreenShot](./images/moblie-screenshot.png)
 
 ### Links
 
